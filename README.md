@@ -7,5 +7,6 @@ I ran thru a large variety of ML models and found that none were capable of prod
 I came to the conclusion that more steps were needed in the data preparation stage to allow for the models to be better.  
 
 # Built In
-Python.
+
+Python.  
 Jupyter Notebook.  
